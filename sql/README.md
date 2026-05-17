@@ -6,7 +6,7 @@ The objective of this stage was to design and populate a relational PostgreSQL d
 
 The database was designed to support:
 
-* efficient storage,
+* efficient storage,   
 * relational integrity,
 * future analytics workflows,
 * and scalable querying for customer sentiment and thematic analysis.
